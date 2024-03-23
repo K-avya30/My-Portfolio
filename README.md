@@ -1,8 +1,10 @@
 # My-Portfolio
 Welcome to my portfolio repository! This repository serves as a showcase of my projects, skills, and experiences in B.Tech in Information Technology. Here, you'll find a collection of my work and a glimpse into my technical expertise.
 
-**Features**
-**Projects**
+**Features**   
+
+
+**Projects**  
   Explore a variety of projects I've worked on, each demonstrating different skills and technologies.
 
 **Skills**
