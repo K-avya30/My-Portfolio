@@ -21,6 +21,7 @@ Welcome to my portfolio repository! This repository serves as a showcase of my p
   Switch between dark and light themes (if applicable) for your preferred viewing experience.  
   
 **Contact**  
-  Email: [kavya.28568@gmail.com]
-  LinkedIn: [https://www.linkedin.com/in/kavya-patel-1ba454225/]
-  Thank you for visiting my portfolio!
+  Email: [kavya.28568@gmail.com]  
+  LinkedIn: [https://www.linkedin.com/in/kavya-patel-1ba454225/]  
+  **Thank you for visiting my portfolio!**  
+  
