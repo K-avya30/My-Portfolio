@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This repository serves as a showcase of my p
 **Contact Me**  
   Feel free to reach out to discuss collaborations, opportunities, or simply to connect. You can contact me via email or through my LinkedIn profile.  
 
-**Usage**
+**Usage**  
   Clone the repository:
   Explore the projects and skills showcased in the repository.
   Switch between dark and light themes (if applicable) for your preferred viewing experience.  
